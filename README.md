@@ -144,28 +144,11 @@ akash = {
 
 ---
 
-## 📊 GitHub Stats
+## Certifications & Learning
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashsuvarnkar82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashsuvarnkar82&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 📜 Certifications & Learning
-
-| 🎓 Certification | 🏢 Platform | 📅 Status |
+|  Certification | Platform | Status |
 |---|---|----|
-| SQL for Data Analysis | PostgreSQL Practice | ✅ Completed |
+| SQL for Data Analysis | PostgreSQL Practice | Completed |
 
 ---
 
