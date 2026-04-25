@@ -167,24 +167,11 @@ akash = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akashsuvarnkar82&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
-
-</div>
-
----
-
 ## 📜 Certifications & Learning
 
 | 🎓 Certification | 🏢 Platform | 📅 Status |
-|---|---|---|
-| MO-200 Excel Associate | Microsoft | 🔄 In Progress |
+|---|---|----|
 | SQL for Data Analysis | PostgreSQL Practice | ✅ Completed |
-| Power BI Fundamentals | Microsoft Learn | ✅ Completed |
-| Python for Data Science | Pandas / Practice | 🔄 Ongoing |
 
 ---
 
