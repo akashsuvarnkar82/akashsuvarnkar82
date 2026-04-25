@@ -152,11 +152,6 @@ akash = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsuvarnkar82&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
 
 <div align="center">
 
@@ -189,7 +184,7 @@ akash = {
 
 <div align="center">
 
-### 💼 Open to Fresher Data Analyst Opportunities — Pune & Remote 🚀
+### Open to Fresher Data Analyst Opportunities — Pune & Remote 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0D1117,100:0D1117&height=120&section=footer&text=Let's+Build+With+Data!&fontColor=00D9FF&fontSize=24&animation=fadeIn" width="100%"/>
 
