@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Akash+Suvarnkar+👋;Aspiring+Data+Analyst+📊;SQL+%7C+Excel+%7C+Power+BI+%7C+Python+🐍;Turning+Raw+Data+into+Real+Decisions+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Akash+Suvarnkar+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Turning+Raw+Data+into+Real+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
