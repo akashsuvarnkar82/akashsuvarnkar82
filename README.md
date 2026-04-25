@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Data Analysis GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Data Analysis GIF" width="325" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 akash = {
