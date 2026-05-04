@@ -48,7 +48,7 @@ akash = {
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Advanced-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ### 📊 Analytics & Visualization
